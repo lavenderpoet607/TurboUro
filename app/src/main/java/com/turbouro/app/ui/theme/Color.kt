@@ -1,0 +1,33 @@
+package com.turbouro.app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val DarkBackgroundPrimary = Color(0xFF090B10)
+val DarkBackgroundSecondary = Color(0xFF11141B)
+val DarkSurface = Color(0xFF171B23)
+val DarkSurfaceElevated = Color(0xFF1D222C)
+val DarkBorder = Color(0xFF282E39)
+val DarkTextPrimary = Color(0xFFF5F7FA)
+val DarkTextSecondary = Color(0xFFA8AFBA)
+val DarkTextMuted = Color(0xFF6F7784)
+val DarkAccentPrimary = Color(0xFF7CFF6B)
+val DarkAccentSecondary = Color(0xFF57C7FF)
+val DarkSuccess = Color(0xFF62E294)
+val DarkWarning = Color(0xFFFFC857)
+val DarkDanger = Color(0xFFFF5C67)
+val DarkInfo = Color(0xFF58B8FF)
+
+val LightBackgroundPrimary = Color(0xFFF5F7FA)
+val LightBackgroundSecondary = Color(0xFFFFFFFF)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceElevated = Color(0xFFEEF1F5)
+val LightBorder = Color(0xFFDCE1E8)
+val LightTextPrimary = Color(0xFF11151C)
+val LightTextSecondary = Color(0xFF5D6673)
+val LightTextMuted = Color(0xFF89919D)
+val LightAccentPrimary = Color(0xFF2E9D45)
+val LightAccentSecondary = Color(0xFF168AC2)
+val LightSuccess = Color(0xFF278A48)
+val LightWarning = Color(0xFFB47700)
+val LightDanger = Color(0xFFD53B48)
+val LightInfo = Color(0xFF147DB2)

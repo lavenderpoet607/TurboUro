@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TurboUro</string>
+    <string name="app_tagline">Utilitas Performa dan Telemetri Game Android</string>
+    <string name="channel_name">Layanan TurboUro</string>
+    <string name="channel_description">Menampilkan pemantauan performa dan status telemetri perangkat</string>
+    <string name="service_title">TurboUro Engine Aktif</string>
+    <string name="service_desc">Memantau telemetri rendering dan status frame rate</string>
+</resources>
