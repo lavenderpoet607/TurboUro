@@ -93,8 +93,8 @@ TurboUro dibangun dengan pendekatan rekayasa yang terukur dan transparan:
 Pastikan Android Studio Ladybug (atau versi lebih baru) dan JDK 17 telah terpasang.
 
 ```bash
-git clone https://github.com/turbouro/turbouro.git
-cd turbouro
+git clone https://github.com/lavenderpoet607/TurboUro.git
+cd TurboUro
 
 .\gradlew.bat assembleRelease
 
