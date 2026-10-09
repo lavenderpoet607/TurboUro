@@ -33,3 +33,6 @@ signing.properties
 release.keystore
 debug.keystore
 google-services.json
+turbouro_banner.jpg
+turbouro_documentation_and_implementation_complete.md
+design.md
